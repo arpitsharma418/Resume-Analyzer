@@ -1,0 +1,24 @@
+We are looking for a passionate Software Engineer to design, develop and install software solutions. Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages, like (JavaScript, Python, Java,...etc).
+
+Responsibilities
+Execute full software development life cycle (SDLC)
+Develop flowcharts, layouts and documentation to identify requirements and solutions
+Write well-designed, testable code
+Produce specifications and determine operational feasibility
+Integrate software components into a fully functional software system
+Develop software verification plans and quality assurance procedures
+Document and maintain software functionality
+Troubleshoot, debug and upgrade existing systems
+Deploy programs and evaluate user feedback
+Comply with project plans and industry standards
+Ensure software is updated with latest features
+
+Education: B.tech / MCA / BCA
+Batch: 2024, 25, 26, 27
+Location: Banglore, India
+
+Required Skills:
+Python, React, Node.js, JavaScript, MongoDB, MySQL, Git and Github, testing, HTML/CSS, Deployment.
+
+Preferred Skills:
+AWS, CI/CD piplelines, Github Actions, LLMs
